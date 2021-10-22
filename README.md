@@ -18,9 +18,9 @@
 ### District Summary
 	After our audit of Thomas High School it was found that the overall passing percentage of districts decreased by one point.
 	
-	![District Summary Before](https://raw.githubusercontent.com/wellma41/School_District_Analysis/main/School%20Analysis%20Figures/district_summary_before.PNG)
+	![District Summary Before](![image](https://user-images.githubusercontent.com/90660790/138393487-eafbde9d-70ee-437e-959c-d18d288324f7.png))
 	
-	![District Summary After](https://github.com/wellma41/School_District_Analysis/blob/main/School%20Analysis%20Figures/district_summary.PNG?raw=true)
+	![District Summary After](![image](https://user-images.githubusercontent.com/90660790/138393465-a8d72a2a-42f3-44eb-81de-c6fdee89b746.png))
 
 ### School Summary 
 	After the audit we saw Thomas High School's overall passing percentage droped by about 0.21 percent.
