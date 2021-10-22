@@ -20,7 +20,7 @@
 	
 	![District Summary Before](https://user-images.githubusercontent.com/90660790/138393487-eafbde9d-70ee-437e-959c-d18d288324f7.png)
 	
-	(![image](https://user-images.githubusercontent.com/90660790/138393465-a8d72a2a-42f3-44eb-81de-c6fdee89b746.png))
+	![Distric Summary After](https://user-images.githubusercontent.com/90660790/138393465-a8d72a2a-42f3-44eb-81de-c6fdee89b746.png)
 
 ### School Summary 
 	After the audit we saw Thomas High School's overall passing percentage droped by about 0.21 percent.
